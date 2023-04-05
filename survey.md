@@ -1,4 +1,4 @@
-Favorite color: violet
+Favorite color: dark blue
 Favorite food: shawarma
 Favorite musician/band: toby fox
 Favorite movie: the tetris movie
